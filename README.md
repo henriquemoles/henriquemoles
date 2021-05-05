@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, seja bem vindo(a)!
 
-<!--
-**henriquemoles/henriquemoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou o Henrique Moles!
 
-Here are some ideas to get you started:
+… Sou graduado em Ciências da Computação pela universidade nove de julho. Atualmente estudando e me especializando na area de desenvolvimento mobile com foco em flutter, tambem estou estudando UX!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ - 💻 Aspirante a desenvolvedor mobile;
+ - 😄 Gosto muito de estudar;
+ - 📚 Atualmente estudando Flutter;
+ - 🎸 And I also like to play bass.
+
+
+## Entre em contato comigo
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/henrique-moles/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:henriquemoles@gmail.com)
