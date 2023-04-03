@@ -5,9 +5,9 @@
 … Sou graduado em Ciências da Computação pela universidade nove de julho. Atualmente estudando e me especializando na area de desenvolvimento mobile com foco em flutter, tambem estou estudando UX!
 
 
- - 💻 Aspirante a desenvolvedor mobile;
+ - 💻 Desenvolvedor flutter com 2 anos de experiencia;
  - 😄 Gosto muito de estudar;
- - 📚 Atualmente estudando Flutter;
+ - 📚 Atualmente estudando flutter, java e SpringBoot;
  - 🎸 And I also like to play bass.
 
 
