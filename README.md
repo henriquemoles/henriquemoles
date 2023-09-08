@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a)!
 
-## Sou o https://img.shields.io/badge/Henrique%20Moles-gray?style=for-the-badge&logo=Flutter&logoColor=blue!
+## Sou o [https://img.shields.io/badge/Henrique%20Moles-gray?style=for-the-badge&logo=Flutter&logoColor=blue](https://img.shields.io/badge/Henrique%20Moles-gray?style=for-the-badge&logo=Flutter&logoColor=blue)!
 
 🎓 Graduado em Ciências da Computação pela Universidade Nove de Julho.
 📱 Especializando-me em desenvolvimento mobile com foco em Flutter e estudando UX.
