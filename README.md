@@ -16,4 +16,3 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-moles/)](https://www.linkedin.com/in/henrique-moles/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquemoles@gmail.com)](mailto:henriquemoles@gmail.com)
-[![Google for Developers Badge](https://img.shields.io/badge/-Google%20for%20Developers-4285F4?style=flat-square&logo=Google&logoColor=white&link=https://developers.google.com/)](https://developers.google.com/)
