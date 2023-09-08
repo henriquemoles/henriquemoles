@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a)!
 
-## Sou [![Seu Nome](https://img.shields.io/badge/-SeuNome-007acc?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/henriquemoles)](https://github.com/seu-usuario)!
+## Sou Henrique Moles!
 
 🎓 Graduado em Ciências da Computação pela Universidade Nove de Julho.
 📱 Especializando-me em desenvolvimento mobile com foco em Flutter e estudando UX.
