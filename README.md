@@ -15,4 +15,4 @@
 📫 **Entre em contato comigo**:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-moles/)](https://www.linkedin.com/in/henrique-moles/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquemoles@gmail.com)](mailto:henriquemoles@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquemoles@gmail.com)](mailto:henriquemoles@gmail.com).
