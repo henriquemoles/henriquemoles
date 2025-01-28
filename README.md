@@ -5,7 +5,7 @@
 🎓 Graduado em Ciências da Computação pela Universidade Nove de Julho.
 📱 Especializando-me em desenvolvimento mobile com foco em Flutter e estudando UX.
 
-- 💻 **Desenvolvedor Flutter**: Com 4 anos de experiência, sou apaixonado por criar aplicativos mobile inovadores.
+- 💻 **Desenvolvedor Flutter**: Com 4 anos de experiência.
 - 😄 **Aprendizado Constante**: Estou sempre em busca de aprendizado e aprimoramento contínuo.
 - 📚 **Áreas de Interesse**: Atualmente, estou aprofundando meus conhecimentos em Flutter, Java e Spring Boot para construir soluções robustas.
 - 🎸 **Passatempo**: Além da programação, também gosto de tocar baixo e explorar novos sons.
